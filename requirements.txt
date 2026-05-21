@@ -1,0 +1,8 @@
+SpeechRecognition==3.15.2
+PyAudio==0.2.14
+customtkinter==5.2.2
+python-dotenv==1.2.2
+pygame==2.6.1
+ollama==0.6.1
+requests==2.32.3
+piper-tts
